@@ -16,6 +16,6 @@ print (a+c)
 
 #String and Number
 string = 'python is fun'
-print(string +  str(d))
+print(string + str(d))
 
 

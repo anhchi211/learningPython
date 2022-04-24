@@ -4,4 +4,5 @@ greeting= "Hello" + " " + lastname  + " " + firstname
 print(greeting)
 
 Input=int(input('What is your number?: '))
-print(type(Input))
+print(type(Input)) #check which type of data
+

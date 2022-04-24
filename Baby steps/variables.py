@@ -1,2 +1,4 @@
 myname = "Nguyen Diep \n Anh Chi"
-print(myname)
+
+
+assert myname == "Nguyen Diep \n Anh Chi"
