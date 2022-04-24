@@ -1,5 +1,5 @@
 lastname=input('Type your lastname: ')
-firstname=input('Tyep you firstname: ')
+firstname=input('Type you firstname: ')
 greeting= "Hello" + " " + lastname  + " " + firstname
 print(greeting)
 

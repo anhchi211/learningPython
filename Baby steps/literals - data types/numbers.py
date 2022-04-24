@@ -1,4 +1,4 @@
-#Data types: Numbers
+
  # Integer numbers: decimal, binary, octal, hexadecimal
  # Floating numbers
  # Complex numbers
@@ -17,5 +17,7 @@ print (a+c)
 #String and Number
 string = 'python is fun'
 print(string + str(d))
+
+
 
 

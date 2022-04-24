@@ -25,11 +25,13 @@ print (myfullname.isupper())
 #len function -> How many characters(index) included in the string?
 print(len(myfullname))
 
-#index 
+#index position
 print(myfullname[2:8]) 
 
 #replace function
 print(myfullname.replace("Nguyen", "Do"))
+
+
 
 
 
